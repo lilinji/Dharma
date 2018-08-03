@@ -1,5 +1,4 @@
 # Dharma
-# DAYU-SGE
 用于安装诺禾大型HPC混合云平台资源统计
 # AdminSet
 <img src="https://travis-ci.org/guohongze/adminset.svg?branch=master"></img> 
