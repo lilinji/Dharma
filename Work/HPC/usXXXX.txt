@@ -1,0 +1,11 @@
+Job_num:28778
+CPU_USE:26.34
+MEM_USE:23.48%
+WAITE_TIME:29
+RUN_TIME:5
+one_islion_prencent:53.9300%
+one_islion_total:1730
+one_islion_use:933
+one_NL500_prencent:68.8300%
+one_NL500_total:215
+one_NL500_use:148

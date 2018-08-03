@@ -1,0 +1,11 @@
+Job_num:11034
+CPU_USE:47.21
+MEM_USE:21.13%
+WAITE_TIME:26
+RUN_TIME:6
+one_islion_prencent:100.0000%
+one_islion_total:719.8
+one_islion_use:719.8
+one_NL500_prencent:100.0000%
+one_NL500_total:1898.49
+one_NL500_use:1898.49

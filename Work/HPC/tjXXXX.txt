@@ -1,0 +1,11 @@
+Job_num:743942
+CPU_USE:34.28
+MEM_USE:24.85%
+WAITE_TIME:49
+RUN_TIME:5
+one_islion_prencent:77.3200%
+one_islion_total:6364
+one_islion_use:4920.9
+one_NL500_prencent:86.6700%
+one_NL500_total:2618
+one_NL500_use:2269.2
